@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class Home extends Component {
+class TicTacToe extends Component {
   render() {
     return (
       <div>
-        <h2>Home!</h2>
+        <h2>TicTacToe!</h2>
       </div>
     );
   }
 }
 
-export default Home;
+export default TicTacToe;
